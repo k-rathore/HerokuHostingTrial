@@ -1,0 +1,12 @@
+[
+    {
+        "Name":"ABC",
+        "Team":"A",
+        "EarnPoints":"500"
+    },
+    {
+        "Name":"Dummy",
+        "Team":"B",
+        "EarnPoints":"1500"
+    }
+]
